@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: b52cd8a60146f7f469f9f8b582b10acd
+timeCreated: 1522665921
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Score: {fileID: 1134443457506596, guid: c4c2ebc2009d4bb4390f4ff7ee26392e, type: 2}
+  - Consigne: {fileID: 1781888398860720, guid: 7c5a73434f710114692dc4d14ded977f, type: 2}
+  - Timer: {fileID: 1325564778370254, guid: 410ae24667d2ced479098f0173f8ec9f, type: 2}
+  - mort: {fileID: 21300100, guid: 92dcf22ed44720d4487ab55881322816, type: 3}
+  - pacman1: {fileID: 1701265045419148, guid: 51b017c0ef7556644844fc0832d4241d, type: 2}
+  - phantomeR: {fileID: 1774855960634572, guid: 94ee69054d4260b429261e85820bdf44,
+      type: 2}
+  - phantomeP: {fileID: 1468029855062486, guid: 9d587ce5ee25d18499af022956c050f7,
+      type: 2}
+  - phantomeJ: {fileID: 1995671442842936, guid: f4a50ffdc836aea46a6607f81fccdfcb,
+      type: 2}
+  - phantomeB: {fileID: 1774855960634572, guid: 2649e74b05cba8341947f72e7f746943,
+      type: 2}
+  - pacgomme: {instanceID: 0}
+  - superPacgomme: {instanceID: 0}
+  - cerise: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

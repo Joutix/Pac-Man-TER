@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8afd98040993267479423345a3be28aa
+timeCreated: 1522692799
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Score: {fileID: 1134443457506596, guid: c4c2ebc2009d4bb4390f4ff7ee26392e, type: 2}
+  - Consigne: {fileID: 1781888398860720, guid: 7c5a73434f710114692dc4d14ded977f, type: 2}
+  - Timer: {fileID: 1325564778370254, guid: 410ae24667d2ced479098f0173f8ec9f, type: 2}
+  - mort: {fileID: 21300100, guid: 92dcf22ed44720d4487ab55881322816, type: 3}
+  - phantomeB: {fileID: 1774855960634572, guid: 2649e74b05cba8341947f72e7f746943,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

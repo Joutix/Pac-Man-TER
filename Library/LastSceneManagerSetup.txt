@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/SkinG\xE9n\xE9ral.unity"
+  isLoaded: 1
+  isActive: 1
